@@ -66,3 +66,10 @@ Para que la aplicación funcione correctamente, es necesario crear los archivos 
 
 ---
 ## Flujo de Funcionalidades
+
+### Listado de Task 
+[!image_alt]()
+[!image_alt]()
+[!image_alt]()
+[!image_alt]()
+[!image_alt]()
